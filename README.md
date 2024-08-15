@@ -1,1 +1,2 @@
-# deep-learn-notes
+# Deep Learning Study Notes
+
